@@ -1,37 +1,50 @@
-SEN204-INTERNET AND WEB PROGRAMMIN
-
-
 # 💰 MoneyGuard
 
-MoneyGuard is a simple website to track income and expenses.
-
-## 📌 About the Project
-This project helps users manage their money in an easy way.  
-You can add your income and expenses and see your final balance.
+MoneyGuard is a simple and user-friendly budget management web application that helps users track their income and expenses, monitor their balance, and manage their personal finances.
 
 ## ✨ Features
-- Add income and expenses
-- Show total income
-- Show total expenses
-- Calculate final balance
-- Set wallet balance
-- Set minimum safe balance
-- Show if your balance is safe or not
-- Delete transactions
-- Reset all data
 
-## 🛠️ Technologies
-- HTML
-- CSS
-- JavaScript
+- ➕ Add new transactions
+- ✏️ Edit existing transactions
+- 🗑️ Delete transactions
+- 📋 View all transactions
+- 💵 Calculate total income
+- 💸 Calculate total expenses
+- 💰 Display final balance
+- 🎯 Set wallet balance
+- ⚠️ Set a minimum safe balance with warning alerts
+- 💾 Save data using Local Storage
+- 🔄 Reset all saved data
 
-## ▶️ How to Use
-1. Open the project
-2. Enter your wallet balance
-3. Add transactions (income or expense)
-4. Check your balance and status
+## 🛠️ Technologies Used
 
-## 💡 Notes
-- Data is saved automatically using localStorage
-- Simple and easy interface
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Local Storage
 
+## 🚀 How to Run
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+   or
+4. Run it using **Live Server** in Visual Studio Code.
+
+## 📸 Screenshots
+
+Add screenshots of the application here if required.
+
+## 📂 Project Structure
+
+```
+MoneyGuard/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+```
+
+## 📌 Author
+
+Mariam Soumaf
