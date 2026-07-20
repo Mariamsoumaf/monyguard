@@ -309,3 +309,19 @@ tbody tr:hover {
         white-space: nowrap;
     }
 }
+
+.edit-btn {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    width: auto;
+    transition: 0.2s ease;
+}
+
+.edit-btn:hover {
+    background: #1d4ed8;
+}
