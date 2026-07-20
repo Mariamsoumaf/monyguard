@@ -31,9 +31,7 @@ MoneyGuard is a simple and user-friendly budget management web application that 
    or
 4. Run it using **Live Server** in Visual Studio Code.
 
-## 📸 Screenshots
 
-Add screenshots of the application here if required.
 
 ## 📂 Project Structure
 
